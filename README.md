@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **nothing, will make something cool later**
 
-- 🌱 I’m currently learning **Python, ML etc**
+- 🌱 I’m currently learning **Python, Java, C, Assembly, ML etc**
 
 - 🤝 I’m looking for help with **Minecraft mods**
 

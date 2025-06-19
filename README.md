@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **java, minecraft coding**
 
-- 📫 How to reach me **ashinalwin3@gmail.com**
-
-- ⚡ Fun fact **Me like cats**
+- ⚡ Fun fact **I LOVE ADO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
